@@ -10,8 +10,8 @@
   "author": "ZURB <foundation@zurb.com>",
   "license": "MIT",
   "dependencies": {
-    "foundation-sites": "~6.4.1",
-    "jquery": ">=3.0.0",
+    "foundation-sites": "~6.4.3",
+    "jquery": ">=3.3.1",
     "motion-ui": "^2.0.3",
     "what-input": "^5.1.1"
   },
